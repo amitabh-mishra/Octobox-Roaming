@@ -1,0 +1,9 @@
+{
+    "device_ip_addr": "'172.16.20.5'",
+    "loopback_delay_usec": 0,
+    "loopback_mode": "disabled",
+    "playback_filename": [
+        "'csv/sweep_test'"
+    ],
+    "loopback": 15
+}
